@@ -14,12 +14,12 @@
 
 ## Übungen im Playground 
 
-[] edit the test file "in place"/locally
-[] upload a file to the repository 
-[] discover branches (create a new branch and either merge it yourself or have someone else merge the branches)
-[] open in web development 
-[] create a file within the folder "your_files"
-[] display your file through Liascript
+* edit the test file "in place"/locally
+*  upload a file to the repository
+*  discover branches (create a new branch and either merge it yourself or have someone else merge the branches)
+*  open in web development 
+* reate a file within the folder "your_files"
+* display your file through Liascript
 
 ## Kommentar 
 
@@ -27,6 +27,7 @@ Schaut Euch gerne auch so einmal um, was alles funktioniert.
 Dabei seid Ihr nicht an den Workshop gebunden.
 
 Hier ein paar Ressourcen dazu: 
-https://docs.github.com/en/get-started 
-https://deployn.de/blog/git-tutorial/ 
-https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/ 
+
+1. https://docs.github.com/en/get-started 
+2. https://deployn.de/blog/git-tutorial/ 
+3. https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/ 
